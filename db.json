@@ -1,42 +1,39 @@
 {
-  "about": [
-    {
-      "level": "A1",
-      "week": 2,
-      "balance": 128,
-      "idk":"C1"
-    }
-  ],
-  "program": [
-    {
-      "id" : 2,
-      "label": "HTML",
-      "url": "http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"
-      "total": 16,
-      "workshop": 3,
-      "taf": 4,
-      "challenge": 5,
-      "miniprojet": 4
-    }
-    {
-      "id" : 3,
-      "label": "CSS",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-      "total": 13,
-      "workshop": 5,
-      "taf": 4,
-      "challenge": 3,
-      "miniprojet": 1
-    }
-    {
-      "id" : 1,
-      "label": "PHP",
-      "url": "https://www.pngmart.com/files/7/PHP-Transparent-PNG.png"
-      "total": 11,
-      "workshop": 3,
-      "taf": 2,
-      "challenge": 4,
-      "miniprojet": 2
-    }
-  ]
+    "about": [{
+        "level": "A1",
+        "week": 2,
+        "balance": 128,
+        "idk": "C1"
+    }],
+    "program": [{
+            "id": 2,
+            "label": "HTML",
+            "url": "http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png",
+            "total": 16,
+            "workshop": 3,
+            "taf": 4,
+            "challenge": 5,
+            "miniprojet": 4
+        },
+        {
+            "id": 3,
+            "label": "CSS",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+            "total": 13,
+            "workshop": 5,
+            "taf": 4,
+            "challenge": 3,
+            "miniprojet": 1
+        },
+        {
+            "id": 1,
+            "label": "PHP",
+            "url": "https://www.pngmart.com/files/7/PHP-Transparent-PNG.png",
+            "total": 11,
+            "workshop": 3,
+            "taf": 2,
+            "challenge": 4,
+            "miniprojet": 2
+        }
+    ]
 }
